@@ -1,5 +1,4 @@
-# academy-template-readme-projects
-![](https://i.imgur.com/xG74tOh.png)
+![](https://i.imgur.com/3ozSwSy.png)
 
 <p align="center">
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/cubos-academy/academy-template-readme-projects?color=%2304D361">
@@ -26,18 +25,10 @@
   
  
 </p>
-<h1 align="center">
-    <img alt="Cubos Academy" title="#CubosAcademy" src="assets/Capa GItHub.png" />
-</h1>
 
 <h4 align="center"> 
-	🚧 Nome do Projeto 🚧
+	🚧 Toast React Native 🚧
 </h4>
-
-<p align="center">
-	<img alt="Status Em Desenvolvimento" src="https://img.shields.io/badge/STATUS-EM%20DESENVOLVIMENTO-green">
-	<img alt="Status Concluído" src="https://img.shields.io/badge/STATUS-CONCLU%C3%8DDO-brightgreen">
-</p>
 
 <p align="center">
  <a href="#-sobre-o-projeto">Sobre</a> •
@@ -53,12 +44,8 @@
 
 ## 💻 Sobre o projeto
 
-📄 Academy Template README Projects - é o modelo oficial de README de projetos da Cubos Academy.
-
-
-Projeto desenvolvido durante a **[Turma | Evento]** de [ [Desenvolvimento de Software](https://cubos.academy/cursos/desenvolvimento-de-software-v2) | [On Demand](https://cubos.academy/cubosondemand) ] oferecida pela [Cubos Academy](https://cubos.academy/).
-
-A Cubos Academy é uma escola com cursos de tecnologia para todos os perfis, do iniciante ao avançado.
+Toast altamente personalizável para React Native, ideal para exibir notificações temporárias e mensagens de feedback aos usuários. Totalmente compatível com Expo e React Native CLI, este componente oferece uma solução elegante e fácil de usar para enriquecer a experiência do usuário em suas aplicações móveis.
+.
 
 ---
 
